@@ -1,4 +1,4 @@
-# Task 6: Password Strength and Security Evaluation Report
+# Password Strength and Security Evaluation Report
 
 This repository contains the deliverables for a security assignment focused on understanding and evaluating **password complexity** and researching **common attack vectors**.
 
